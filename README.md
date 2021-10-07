@@ -2,7 +2,6 @@
 - 👀 I’m interested in C++ and Python
 - 🌱 I’m currently learning C++ and Python
 - 🏫 I'm doing BSc Economics at University College London
-- 💞️ I’m looking to collaborate on courseworks and exams (just kidding)
 - 📫 How to reach me: wangzifeng457@gmail.com
 
 <!---
