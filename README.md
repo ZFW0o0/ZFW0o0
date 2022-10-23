@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Zifeng Wang
-- 👀 I’m interested in C++ and Python
-- 🌱 I’m currently learning C++ and Python
-- 🏫 I'm doing BSc Economics at University College London but I'm looking to do a masters degree in computer science
-- 📫 How to reach me: wangzifeng457@gmail.com
+- 👀 I’m interested in Software Engineering and Machine Learning.
+- 📕 I’m proficient in C++ and Python.
+- 🏫 I'm doing MSc Computing at Imperial College London and I am looking for Software Engineer graduate roles.
+- 📫 How to reach me: zifeng.wang2023@outlook.com
 
 <!---
 ZFW0o0/ZFW0o0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
